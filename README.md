@@ -33,16 +33,18 @@ I'm an aspiring Software Engineer who loves to code and build amazing projects. 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### BaaS & Cloud Storage
+### API & Cloud
 
 ![Back4App](https://img.shields.io/badge/Back4App-0C136D?style=for-the-badge&logo=back4app&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Design Tools
 
@@ -52,9 +54,6 @@ I'm an aspiring Software Engineer who loves to code and build amazing projects. 
 ![Whimsical](https://img.shields.io/badge/Whimsical-EC4899?style=for-the-badge&logo=whimsical&logoColor=white)
 
 
-### API & Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
 
