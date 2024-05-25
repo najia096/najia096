@@ -5,10 +5,10 @@
 I'm an aspiring Software Engineer who loves to code and build amazing projects. I recently completed my BSc in Computer Science.
 
 - 🌱 I’m currently learning React & Node.js
-- 👯 I’m looking to collaborate on Open Source Projects 
-- 💬 Ask me about Web Development
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages (Human Ones) but can read 5!
+- 👯 I’m looking to collaborate on Open Source Projects in Web Development Frameworks
+- 💬 Ask me about: Web Development
+- 👧 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages (🗣️Human Ones) but can read 5!
 
 ## 🛠️ Tools & Technologies
 
@@ -47,9 +47,10 @@ I'm an aspiring Software Engineer who loves to code and build amazing projects. 
 ### Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Whimsical](https://img.shields.io/badge/Whimsical-EC4899?style=for-the-badge&logo=whimsical&logoColor=white)
+
 
 ### API & Cloud
 
