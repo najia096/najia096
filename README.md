@@ -1,5 +1,5 @@
 ![cover](./cover2.gif)
-# I'm Najia Jahan! 👋
+# Hi there, I'm Najia Jahan! 👋
 
 ## 🚀 About Me
 
