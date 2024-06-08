@@ -33,7 +33,6 @@ I'm an aspiring Software Engineer who loves to code and build amazing projects. 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,7 +52,11 @@ I'm an aspiring Software Engineer who loves to code and build amazing projects. 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/Whimsical-EC4899?style=for-the-badge&logo=whimsical&logoColor=white)
 
+### Libraries & Frameworks
 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?style=for-the-badge&logo=hugging%20face&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=pygame&logoColor=white)
 
 ## 📈 GitHub Stats
 
