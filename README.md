@@ -5,7 +5,7 @@
 
 I'm an aspiring Software Engineer who loves to code and build amazing projects. I recently completed my BSc in Computer Science.
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Node.js 
 - 💬 Ask me about: Web Development
 - 👧 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages (🗣️Human Ones) but can read 5!
