@@ -1,4 +1,4 @@
-![cover](./cover2.gif)
+![cover](./pixel1.gif)
 # Hi there, I'm Najia Jahan! 👋
 
 ## 🚀 About Me
